@@ -1,4 +1,4 @@
-# FilmSim GPT — Context-aware Fujifilm X100VI recipe recommender
+# FujiSim GPT — Context-aware Fujifilm X100VI recipe recommender
 
 Use this kit to create a custom GPT that recommends Fujifilm X100VI film simulations based on context.
 
@@ -15,7 +15,7 @@ Use this kit to create a custom GPT that recommends Fujifilm X100VI film simulat
 
 2. **Create the Custom GPT**
    - In ChatGPT, go to **Explore GPTs → Create**.
-   - **Name:** *FilmSim GPT — Context-aware Fujifilm X100VI recipe recommender*  
+   - **Name:** *FujiSim GPT — Context-aware Fujifilm X100VI recipe recommender*  
    - **Description:** "Recommends the best Fujifilm X100VI film simulations for your scene (light, subject, mood), using my personal recipe catalog. Gives reasons, optional tweaks, and a quick compare table."
    - **Profile picture:** (optional) any film-camera icon.
    - **Capabilities:** turn on **Web (optional)** and **Code Interpreter**; enable **Uploads & Links** so the GPT can read your CSV.
